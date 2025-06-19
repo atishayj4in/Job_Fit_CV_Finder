@@ -1,3 +1,7 @@
 Make a Virtual Environment
 Install Requirements.txt in your Virtual Environment
 Run main.py in terminal
+If you are running this code for the first time or you have added some resumes by your own in the resume_data folder, write y when it ask if you want to create a new resume_data.json file.
+Else write n
+Just Enter the Job Description
+It will give the best job-description fit 5 candidates from the resume_data folder
