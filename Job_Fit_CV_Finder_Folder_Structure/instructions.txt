@@ -1,0 +1,3 @@
+Make a Virtual Environment
+Install Requirements.txt in your Virtual Environment
+Run main.py in terminal
